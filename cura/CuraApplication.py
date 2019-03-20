@@ -112,6 +112,11 @@ from cura.Settings.CuraFormulaFunctions import CuraFormulaFunctions
 
 from cura.UI.ObjectsModel import ObjectsModel
 
+<<<<<<< HEAD
+=======
+from cura.UI.MachineModels.DiscoveredPrintersModel import DiscoveredPrintersModel
+
+>>>>>>> origin/WIP_onboarding
 from cura.PrinterOutput.PrinterOutputDevice import PrinterOutputDevice
 from cura.PrinterOutput.NetworkMJPGImage import NetworkMJPGImage
 
